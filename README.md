@@ -1,2 +1,3 @@
 # introtopython_forbioinfo
 A python script for my students to implement!
+This is a pretty simple python script that takes a fasta file as input, then calculates the base frequency and transition/transversion porportions of the sequences. We ask our students in the "Intro to Bioinformatics" class at George Washington University to write a script similar to this one as a way to introduce them to python programming. This was my implementation of the script when I wrote it as a student in that class two years ago. It's cool to go back over it and use it as a grading guideline for other students now that I'm teaching that same class! :)
